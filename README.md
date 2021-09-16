@@ -70,4 +70,3 @@
     <img src="https://komarev.com/ghpvc/?username=Ali6nX404">
 </a>
 <a><img src="https://img.shields.io/github/followers/Ali6nX404?label=Followers&style=social" alt="GitHub Badge"></a>
-****
